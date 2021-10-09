@@ -1,0 +1,33 @@
+body {
+    color: white;
+    background-image: url("earth.jpg");
+    background-position: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: gray;
+    text-shadow: 2px 3px white;
+}
+
+textarea {
+    color: white;
+    background-color: black;
+    width: 600px;
+    height: 400px;
+}
+
+.input {
+    width: 500px;
+    height: 25px;
+}
+
+.talk {
+    color: white;
+    background-color: darkviolet;
+}
+
+.reset {
+    color: white;
+    background-color: darkred;
+}
